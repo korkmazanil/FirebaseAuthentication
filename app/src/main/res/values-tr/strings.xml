@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">FirebaseAuthentication</string>
+    <string name="email_address">Email Adresi</string>
+    <string name="password">Parola</string>
+    <string name="user_name">Kullanıcı Adı</string>
+    <string name="sign_up_btn">Kayıt Ol</string>
+    <string name="sign_in">Giriş Yap</string>
+    <string name="firebaseauthentication">FirebaseAuthentication</string>
+    <string name="sign_up_tv">Hesabınız yok mu? Kayıt olun</string>
+    <string name="welcome">Hoş Geldiniz</string>
+    <string name="return_to_sign_in">Giriş yapa geri dön</string>
+    <string name="user_created">Kullanıcı Oluşturuldu</string>
+
+</resources>

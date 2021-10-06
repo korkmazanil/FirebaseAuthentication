@@ -10,5 +10,7 @@
     <string name="welcome">Hoş Geldiniz</string>
     <string name="return_to_sign_in">Giriş yapa geri dön</string>
     <string name="user_created">Kullanıcı Oluşturuldu</string>
+    <string name="profile">Profil</string>
+    <string name="sign_out">Oturumu Kapat</string>
 
 </resources>

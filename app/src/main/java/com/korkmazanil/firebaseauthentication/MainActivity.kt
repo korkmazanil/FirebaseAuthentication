@@ -42,6 +42,15 @@ class MainActivity : AppCompatActivity(){
         }
     }
 
+    override fun onStart() {
+        super.onStart()
+        if(auth.currentUser != null){
+            val intent = Intent(this, ProfilActivity::class.java)
+            startActivity(intent)
+            finish()
+        }
+    }
+
     private fun signIn() {
         val email = binding.emailAdresEditTextSignIn.text.toString()
         val password = binding.parolaEditTextSignIn.text.toString()

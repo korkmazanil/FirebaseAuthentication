@@ -10,4 +10,6 @@
     <string name="welcome">Welcome</string>
     <string name="return_to_sign_in">Return to sign in</string>
     <string name="user_created">User Created</string>
+    <string name="profile">Profile</string>
+    <string name="sign_out">Sign Out</string>
 </resources>
